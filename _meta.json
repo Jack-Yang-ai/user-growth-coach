@@ -1,0 +1,9 @@
+{
+  "name": "user-growth-coach",
+  "displayName": "User Growth Coach",
+  "description": "三层反馈复盘系统，连接当前输入、历史复盘和日常上下文，自动识别深层行为模式并给出心理机制解释。",
+  "version": "2.2.0",
+  "tags": ["productivity", "reflection", "personal-growth", "coaching", "habit-tracking"],
+  "author": "Jack-Yang-ai",
+  "license": "MIT"
+}
